@@ -1,0 +1,41 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "p1",
+            "description": "1Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "p2",
+            "description": "2Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "p3",
+            "description": "3Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "p4",
+            "description": "4Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "p5",
+            "description": "5Fireworks intended for recreational use during holiday celebrations"
+        }
+
+    ]
+}

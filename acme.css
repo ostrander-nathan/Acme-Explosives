@@ -1,0 +1,18 @@
+#productName{
+	background-color: grey;
+	padding: 20px;
+	margin: 20px;
+}
+
+#productType{
+background-color: red;
+	padding: 20px;
+	margin: 20px;
+}
+
+#productCategory {
+	background-color: blue;
+	padding: 20px;
+	margin: 20px;
+
+}
